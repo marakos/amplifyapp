@@ -10,6 +10,11 @@
       "StackName": "amplify-amplify31a0a8ce3bf34-staging-181538",
       "StackId": "arn:aws:cloudformation:eu-central-1:832566123824:stack/amplify-amplify31a0a8ce3bf34-staging-181538/4f839930-6d5e-11eb-8a24-0afd6a82938c",
       "AmplifyAppId": "dbw847nngumx"
+    },
+    "categories": {
+      "auth": {
+        "cognito42ce1499": {}
+      }
     }
   }
 }
